@@ -1,9 +1,5 @@
-<img src="./readme/title1.svg"/>
 
-<br><br>
-
-<img src="./readme/title7.svg"/> 
-
+Tables of Gujarat-Dwellings Project's
 - [Project Description](#project-description)
 - [User Types](#user-Types)
 - [Features of the App](#features-of-the-app)
@@ -20,7 +16,7 @@
 
 <!-- Project Description -->
 <a name="project-description"></a>
-<img src="./readme/title2.svg"/>
+
 
 > A website app that serves as a real estate market, making it easier for sellers, buyers and anyone interested in real estate investement to buy, sell and get insights to the Lebanese market.
 >
@@ -48,7 +44,6 @@ As an admin, I want to:
 <br><br>
 
 <!-- Prototyping -->
-<img src="./readme/title3.svg"/>
 
 > We designed Gujarat Dwellings Real Estate Insights using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
@@ -66,7 +61,7 @@ As an admin, I want to:
 
 <!-- Demo -->
 <a name="Demo"></a>
-<img src="./readme/title4.svg"/>
+
 
 > Using the wireframes and mockups as a guide, we implemented the Gujarat Dwellings Real Estate Insights website with the following features:
 
@@ -101,7 +96,7 @@ As an admin, I want to:
 
 <!-- Tech stack -->
 <a name="tech-stack" ></a>
-<img src="./readme/title5.svg"/>
+
 
 ###  Gujarat Dwellings Real Estate Insights is built using the following technologies:
 
@@ -116,7 +111,6 @@ React is a free and open-source front-end JavaScript library for building user i
 
 <!-- How to run -->
 <a name="how-to-run"></a>
-<img src="./readme/title6.svg"/>
 
 > To set up Gujarat Dwellings Real Estate Insights Website locally, follow these steps:
 
