@@ -66,9 +66,6 @@ As an admin, I want to:
 > Using the wireframes and mockups as a guide, we implemented the Gujarat Dwellings Real Estate Insights website with the following features:
 
 ### User Screens (Web)
-| Landing screen  | 
-| ---| 
-| ![Landing](./readme/demo/web-pages/landing.gif) | 
 
 | Properties screen |  
 | ---|
